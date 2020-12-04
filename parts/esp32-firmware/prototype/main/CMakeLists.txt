@@ -1,0 +1,9 @@
+idf_component_register(
+  SRC_DIRS
+    "."
+  REQUIRES
+    spo2
+    ulp
+    nvs_flash
+    telemetry
+)

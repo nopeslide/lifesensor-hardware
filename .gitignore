@@ -27,3 +27,4 @@ fp-info-cache
 
 # python
 __pycache__/
+.vscode
